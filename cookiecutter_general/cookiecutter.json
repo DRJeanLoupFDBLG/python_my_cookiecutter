@@ -1,0 +1,7 @@
+{
+	"data_directory": "data",
+	"test_directory": "test",
+        "code_directory": "code",
+	"analysis_directory": "analysis",
+	"ReadMe":"ReadMe"
+}
